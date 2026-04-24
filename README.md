@@ -4,8 +4,8 @@
 
 ## 1. Team Information
 
-- **Jiya Datta Banik** – PES1UG24CS202  
-- **Sai Lavanya Kanchinadham** – PES1UG24CS214  
+- **Julia Mariam Jikku** – PES1UG24CS205  
+- **Kanishka Sarraf** – PES1UG24CS215 
 
 ---
 
