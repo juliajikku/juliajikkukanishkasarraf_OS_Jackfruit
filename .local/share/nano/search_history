@@ -1,0 +1,27 @@
+superviosor mode not found
+Supervisor mode not implemented
+int child
+Running with base rootfs
+int child_fn
+run_supervisor
+strcpy(cfg->rootfs
+strcpy(cfg->id
+excelp
+execlp
+strcpy(cfg
+strcpy(cfg->command
+strcpy(cfg2->coommand
+strcpy(cfg2->command
+case CMD_START:
+client_fd
+client_fd= accept(server_fd_global,NULL,NULL);
+client_fd = accept(server_fd_global
+client_fd = accept
+del_timer_sync
+delete_timer
+timer_delete
+timer_sync
+del_timer
+
+
+
